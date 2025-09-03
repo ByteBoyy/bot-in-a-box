@@ -2,10 +2,13 @@ __pycache__
 .idea
 /.venv
 .ipynb*
-.env
 
 /docs
 /tmp
 /chatbots
 
 test.py
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
